@@ -1,0 +1,10 @@
+name: Arena
+version: '1.0'
+main: pl.komnatagrubasa.arena.Arena
+api-version: '1.19.4'
+author: zdridox
+description: 1v1 duels
+commands:
+  wyzwij:
+    usage: §c§l/wyzwij §4§l[gracz] [kit]
+
